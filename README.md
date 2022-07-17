@@ -12,6 +12,6 @@
 
 </br>
  
-  ![Snake animation](https://github.com/Platane/snk.git)
+  ![Snake animation](svg-only/dist/index.js)
  
 </div>
