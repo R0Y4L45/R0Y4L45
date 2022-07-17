@@ -12,6 +12,6 @@
 
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eragrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eragrundy/eragrundy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
