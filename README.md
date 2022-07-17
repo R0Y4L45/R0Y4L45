@@ -12,6 +12,6 @@
 
 </br>
  
-  ![Snake animation](https://github.com/Platane/snk/blob/f83b9ab0c324da3c4956cf9eee5ef53e3fb8aae1/svg-only/dist/index.js)
+  ![Snake animation](https://github.com/Platane/snk.githttps://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
