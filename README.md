@@ -12,6 +12,6 @@
 
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation]("C:\Users\Lenovo\Downloads\github-user-contribution.svg")
  
 </div>
